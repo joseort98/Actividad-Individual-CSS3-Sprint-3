@@ -16,7 +16,6 @@
 .formulario {
   flex: 100%;
 }
-/*DISEÑO PARA ESCRITORIO*/
 @media (min-width: 600px) {
   .topnav {
     flex-direction: row;
